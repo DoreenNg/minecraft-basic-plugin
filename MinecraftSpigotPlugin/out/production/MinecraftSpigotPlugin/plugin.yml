@@ -1,0 +1,17 @@
+name: First_Plugin
+version: 1.0.0
+author: Doreen
+main: me.doreen.firstplugin.FirstPlugin
+api-version: 1.16
+#depend: //tell the server that an external plugin must be loaded before your plugin can be loaded
+#website: //your website appear with /version <pluginname>
+#commands: // if you have some commands
+#  <command>:
+#    description: //describe your command it will appear with /help
+#    usage: //how is the commands' syntax
+
+commands:
+  kit:
+    description: Give 1 diamond and 20 bricks to player
+    usage: /kit
+    #permission: firstplugin.yourcommandpermission
