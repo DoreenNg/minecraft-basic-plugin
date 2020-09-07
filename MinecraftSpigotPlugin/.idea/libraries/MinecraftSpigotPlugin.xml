@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MinecraftSpigotPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/MinecraftSpigotPlugin_jar/MinecraftSpigotPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

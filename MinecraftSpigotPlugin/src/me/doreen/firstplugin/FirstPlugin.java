@@ -12,7 +12,7 @@ public class FirstPlugin extends JavaPlugin {
         getServer().getPluginManager().registerEvents(new MyListener(), this);
 
         // Register our command "kit" (set an instance of your command class as executor)
-        this.getCommand("kit").setExecutor(new CommandKit());
+        this.getCommand("plcheck").setExecutor(new CommandPlCheck());
     }
 
     @Override
